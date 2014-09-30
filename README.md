@@ -36,3 +36,4 @@ All the above, and those below:
 [Solr]:http://lucene.apache.org/solr/
 [downloader]:http://www.codejava.net/java-se/networking/use-httpurlconnection-to-download-file-from-an-http-url
 [decompresser]:http://www.codejava.net/java-se/file-io/programmatically-extract-a-zip-file-using-java
+[SimSeerX]:http://simseer.ist.psu.edu/
